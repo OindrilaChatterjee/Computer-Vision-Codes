@@ -19,7 +19,7 @@ def histeq(X):
 
 ########################## Support code below
 
-from os.path import normpath as fn # Fixes window/linux path conventions
+from os.path import normpath as fn 
 import warnings
 warnings.filterwarnings('ignore')
 
